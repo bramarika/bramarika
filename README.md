@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=bramarika)
+
+Profile Visits :    
+![Visitor Count](https://profile-counter.glitch.me/bramarika/count.svg)
+
 <!--
 **bramarika/bramarika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

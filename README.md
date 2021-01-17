@@ -2,6 +2,9 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bramarika&theme=highcontrast&show_icons=true&count_private=true)
 
+// README.md
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=bramarika)
+
 Profile Visits :    
 ![Visitor Count](https://profile-counter.glitch.me/bramarika/count.svg)
 

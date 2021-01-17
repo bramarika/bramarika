@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=bramarika)
+![Github stats](https://github-readme-stats.vercel.app/api?username=bramarika&theme=highcontrast&show_icons=true&count_private=true)
 
 Profile Visits :    
 ![Visitor Count](https://profile-counter.glitch.me/bramarika/count.svg)
